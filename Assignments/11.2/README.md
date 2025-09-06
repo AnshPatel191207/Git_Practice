@@ -4,6 +4,7 @@
 - Basic authentication
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Security Features
 - Two-factor authentication
 - Rate limiting
@@ -17,3 +18,8 @@
 - Image upload
 - Document storage
 >>>>>>> feature/file-upload
+=======
+## Communication
+- Real-time messaging
+- Video calls
+>>>>>>> feature/chat
