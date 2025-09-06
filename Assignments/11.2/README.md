@@ -3,6 +3,7 @@
 - User management
 - Basic authentication
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Security Features
 - Two-factor authentication
 - Rate limiting
@@ -11,3 +12,8 @@
 - Credit card processing
 - PayPal integration
 >>>>>>> feature/payments
+=======
+## File Management
+- Image upload
+- Document storage
+>>>>>>> feature/file-upload
